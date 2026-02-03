@@ -1,0 +1,12 @@
+# Environment variables (Sensitive)
+.env
+.env.*.local
+
+# Project specific
+*.log
+
+# IDEs and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
